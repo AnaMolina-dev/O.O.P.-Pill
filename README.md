@@ -17,7 +17,6 @@ Una aplicación simple para crear, marcar y eliminar tareas usando **JavaScript*
 mi-proyecto/ ├── index.html // Interfaz de usuario ├── style.css // Estilos visuales ├── script.js // Lógica con POO └── README.md // Información del proyecto
 
 ## 🧠 Tecnologías utilizadas
-
 - HTML5
 - CSS3
 - JavaScript (ES6)
